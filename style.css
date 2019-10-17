@@ -1,0 +1,161 @@
+
+img {
+  width: 131%;
+  height: 55px;
+
+}
+
+
+
+
+
+.card-img{
+  height: auto;
+}
+.carousel-inner img {
+      width: 50%;
+      height: 400px;
+  }
+.navbar-expand-lg {
+  height:100px;
+  weight:200px;
+}
+
+
+hr { width:100%; height:1px; background: #fffff }
+
+
+.mx-auto {
+
+
+  width:100%;
+}
+
+
+
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+p {
+  color: #999;
+  line-height: 25px;
+}
+h2,h3 {
+  color: #fff;
+}
+h2{
+  font-size: 18px;
+}
+.footer-top {
+  background: #111;
+  padding: 55px 0;
+}
+
+.segment-one h2{
+  color: #fff;
+  font-family: Poppins;
+  text-transform: uppercase;
+}
+.segment-one h2:before {
+  content: '|';
+  color: #c65039;
+  padding-right: 10px;
+}
+.segment-one ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.segment-one ul li {
+  border-bottom: 1px solid rbga(255,255,255,0.3);
+  line-height: 40px;
+}
+.segment-one ul li a{
+  color: #999;
+  text-decoration: none;
+}
+
+.segment-two a{
+  background: #494848;
+  width:40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.segment-two a i {
+  font-size: 20px;
+  color: #fff;
+  padding: 10px 12px;
+}
+
+.segment-two h2:before {
+  content: '|';
+  color: #c65039;
+  padding-right: 10px;
+}
+.segment-two h2{
+  color: #fff;
+  font-family: Poppins;
+  text-transform: uppercase;
+}
+.segment-three h3{
+  font-family: Courgette;
+  color: #fff;
+  text-transform: uppercase;
+}
+.segment-three h3:before {
+  content: '|';
+  color: #c65039;
+  padding-right: 10px;
+}
+.segment-three h2 {
+  color: #fff;
+  font-family: Poppins;
+  text-transform: uppercase;
+}
+.segment-three h2:before {
+  content: '|';
+  color: #c65039;
+  padding-right: 10px;
+}
+.segment-three a{
+  background: #494848;
+  width:40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.segment-three a i {
+  font-size: 20px;
+  color: #fff;
+  padding: 10px 12px;
+}
+
+
+
+
+.footer-bottom-text {
+  text-align: center;
+  background: #000;
+  line-height: 75px;
+}
+
+
+.flex-row {
+
+margin-right: 34px;
+margin-left: 18px;
+}
+
+/* Other Classes for Page Styling */
